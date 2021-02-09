@@ -13,4 +13,9 @@ Repositorio de Prueba para el renderizado 3d en Aplicaciones Web.
 * Introducción a Three.js: https://www.genbeta.com/desarrollo/introduccion-a-three-js-la-libreria-3d-numero-uno-para-html5
 * Ejemplos de Three.js: https://threejs.org/examples/#webgl_materials_wireframe
 
+## Blender 2.82
+* Documentacion de Blender: https://docs.blender.org/
+* Curso completo Youtube: https://www.youtube.com/watch?v=cFg-D6I6jQY&list=PL5vjFJ0wFekK6XCQehqsiA6veA4WsDkhg
+
+
 </br>
